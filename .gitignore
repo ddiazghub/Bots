@@ -1,0 +1,15 @@
+.Python
+[Bb]in
+[Bb]uild
+[Dd]ist
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+*.exe
+*.zip
+*.json
